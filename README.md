@@ -133,7 +133,7 @@ Khan, Saddam Hussain, Anabia Sohail, Muhammad Mohsin Zafar, and Asifullah Khan. 
 
 # Table 
 
-| Backbone | Style | Lr schd |
-| -------- | ----- | ------- |
-| R-50-FPN | caffe | 1x |
-| R-50-FPN | pytorch | 1x |
+| Backbone | Style | Lr schd | Mem (GB) | Inf time (fps) | box AP | mask AP | 
+| -------- | ----- | ------- | -------- | -------------- | ------ | ------- | 
+| R-50-FPN | caffe | 1x | 4.3 |   | 38.0 | 34.4 |
+| R-50-FPN | pytorch | 1x | 4.4 | 16.1 | 38.2 | 34.7|
