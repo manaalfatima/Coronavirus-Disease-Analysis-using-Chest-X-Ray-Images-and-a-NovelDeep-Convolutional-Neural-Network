@@ -131,4 +131,7 @@ faculty.pieas.edu.pk/asifullah/
 
 Khan, Saddam Hussain, Anabia Sohail, Muhammad Mohsin Zafar, and Asifullah Khan. "Coronavirus Disease Analysis using Chest X-ray Images and a Novel Deep Convolutional Neural Network." (2020), 10.13140/Rg. 2.2. 35868.64646 April (2020): 1-31.
 
-
+| Backbone | Style | Lr schd |
+| -------- | ----- | ------- |
+| R-50-FPN | caffe | 1x |
+| R-50-FPN | pytorch | 1x |
